@@ -1,28 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="64" height="64" fill="none">
   <!-- 青蛙身体 -->
-  <ellipse cx="32" cy="38" rx="22" ry="18" fill="#4CAF50"/>
+  <ellipse cx="100" cy="120" rx="70" ry="55" fill="#39FF14" stroke="#000" stroke-width="6"/>
   <!-- 青蛙肚子 -->
-  <ellipse cx="32" cy="42" rx="14" ry="12" fill="#A5D6A7"/>
+  <ellipse cx="100" cy="115" rx="62" ry="48" fill="#5CFF41"/>
   <!-- 左眼凸起 -->
-  <circle cx="22" cy="20" r="10" fill="#4CAF50"/>
-  <!-- 右眼凸起 -->
-  <circle cx="42" cy="20" r="10" fill="#4CAF50"/>
+  <circle cx="68" cy="72" r="30" fill="#39FF14" stroke="#000" stroke-width="6"/>
   <!-- 左眼白 -->
-  <circle cx="22" cy="19" r="7" fill="white"/>
-  <!-- 右眼白 -->
-  <circle cx="42" cy="19" r="7" fill="white"/>
+  <circle cx="68" cy="72" r="24" fill="#FFF" stroke="#000" stroke-width="4"/>
   <!-- 左瞳孔 -->
-  <circle cx="23" cy="19" r="4" fill="#1B5E20"/>
-  <!-- 右瞳孔 -->
-  <circle cx="43" cy="19" r="4" fill="#1B5E20"/>
+  <circle cx="72" cy="68" r="10" fill="#000"/>
   <!-- 左眼高光 -->
-  <circle cx="24.5" cy="17.5" r="1.5" fill="white"/>
+  <circle cx="75" cy="65" r="3" fill="#FFF"/>
+  <!-- 右眼凸起 -->
+  <circle cx="132" cy="72" r="30" fill="#39FF14" stroke="#000" stroke-width="6"/>
+  <!-- 右眼白 -->
+  <circle cx="132" cy="72" r="24" fill="#FFF" stroke="#000" stroke-width="4"/>
+  <!-- 右瞳孔 -->
+  <circle cx="136" cy="68" r="10" fill="#000"/>
   <!-- 右眼高光 -->
-  <circle cx="44.5" cy="17.5" r="1.5" fill="white"/>
-  <!-- 嘴巴微笑 -->
-  <path d="M 22 44 Q 32 52 42 44" stroke="#2E7D32" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="139" cy="65" r="3" fill="#FFF"/>
+  <!-- 嘴巴黄色区域 -->
+  <ellipse cx="100" cy="130" rx="32" ry="14" fill="#FFD700" stroke="#000" stroke-width="4"/>
+  <!-- 微笑曲线 -->
+  <path d="M74 126 Q100 146 126 126" stroke="#000" stroke-width="4" fill="none" stroke-linecap="round"/>
   <!-- 左腮红 -->
-  <ellipse cx="18" cy="40" rx="4" ry="2.5" fill="#E8F5E9" opacity="0.7"/>
+  <ellipse cx="55" cy="110" rx="12" ry="8" fill="#FF69B4" opacity="0.6"/>
   <!-- 右腮红 -->
-  <ellipse cx="46" cy="40" rx="4" ry="2.5" fill="#E8F5E9" opacity="0.7"/>
+  <ellipse cx="145" cy="110" rx="12" ry="8" fill="#FF69B4" opacity="0.6"/>
 </svg>
