@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- 青蛙身体 -->
+  <ellipse cx="32" cy="38" rx="22" ry="18" fill="#4CAF50"/>
+  <!-- 青蛙肚子 -->
+  <ellipse cx="32" cy="42" rx="14" ry="12" fill="#A5D6A7"/>
+  <!-- 左眼凸起 -->
+  <circle cx="22" cy="20" r="10" fill="#4CAF50"/>
+  <!-- 右眼凸起 -->
+  <circle cx="42" cy="20" r="10" fill="#4CAF50"/>
+  <!-- 左眼白 -->
+  <circle cx="22" cy="19" r="7" fill="white"/>
+  <!-- 右眼白 -->
+  <circle cx="42" cy="19" r="7" fill="white"/>
+  <!-- 左瞳孔 -->
+  <circle cx="23" cy="19" r="4" fill="#1B5E20"/>
+  <!-- 右瞳孔 -->
+  <circle cx="43" cy="19" r="4" fill="#1B5E20"/>
+  <!-- 左眼高光 -->
+  <circle cx="24.5" cy="17.5" r="1.5" fill="white"/>
+  <!-- 右眼高光 -->
+  <circle cx="44.5" cy="17.5" r="1.5" fill="white"/>
+  <!-- 嘴巴微笑 -->
+  <path d="M 22 44 Q 32 52 42 44" stroke="#2E7D32" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- 左腮红 -->
+  <ellipse cx="18" cy="40" rx="4" ry="2.5" fill="#E8F5E9" opacity="0.7"/>
+  <!-- 右腮红 -->
+  <ellipse cx="46" cy="40" rx="4" ry="2.5" fill="#E8F5E9" opacity="0.7"/>
+</svg>
